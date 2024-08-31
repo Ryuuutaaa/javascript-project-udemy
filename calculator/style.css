@@ -44,3 +44,23 @@ h1 {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+
+.result {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.calculate-btn {
+  padding: 10px 20px;
+  background-color: #2979ff;
+  color: #ffff;
+  border: none;
+  font-weight: bolder;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.calculate-btn:hover {
+  background-color: #448aff;
+}
